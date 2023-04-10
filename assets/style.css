@@ -5,12 +5,15 @@
 header,
 footer {
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 100%;
     height: 120px;
     background-color: blue;
     color: white;
 }
 =======
+=======
+>>>>>>> 681336a1558a92bdd745e6b88652a9331b4d5230
  width: 100%;
  height: 120px;
  background-color: #F3D5F5;
@@ -44,6 +47,10 @@ p {
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
+<<<<<<< HEAD
   }
 
 
+=======
+  }
+>>>>>>> 681336a1558a92bdd745e6b88652a9331b4d5230
